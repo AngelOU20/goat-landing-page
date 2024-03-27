@@ -8,7 +8,7 @@ const dancingScript = Dancing_Script({
 export const FooterLanding = () => {
   return (
     <footer className="bg-secondary w-full text-white">
-      <div className="md:max-w-screen-2xl mx-auto ml-8 flex flex-wrap gap-x-32 py-12">
+      <div className="md:max-w-screen-2xl mx-auto pl-2 flex flex-wrap gap-x-32 py-12">
         <h3
           className={`${dancingScript.className} text-4xl font-semibold mb-10`}
         >
